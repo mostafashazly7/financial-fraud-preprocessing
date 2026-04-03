@@ -58,6 +58,10 @@ The `fraud_preprocessed.ipynb` notebook implements a comprehensive data science 
 ## 📊 Future Work
 The preprocessed data is now optimized for training advanced classification models such as Random Forest, XGBoost, or Neural Networks to predict fraudulent transactions with high precision.
 
-## Maintained by: mostafashazly7
 
 ## Project Status: Data Preprocessing Phase - Completed ✅
+
+## 👤 Author
+**Mostafa Shazly**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mostafa-shazly-148945314)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/mostafashazly7)
