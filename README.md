@@ -61,7 +61,6 @@ The preprocessed data is now optimized for training advanced classification mode
 
 ## Project Status: Data Preprocessing Phase - Completed ✅
 
-## 👤 Author
-**Mostafa Shazly**
+## 👤 Author: **Mostafa Shazly**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mostafa-shazly-148945314)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/mostafashazly7)
