@@ -133,12 +133,7 @@ The raw dataset (~360MB) and output file exceed GitHub's 100MB file limit. Git L
 financial-fraud-preprocessing/
 |
 ├── fraud_preprocessed.ipynb      # Full preprocessing pipeline
-├── fraud_final_preprocessed.csv  # ✅ Final clean output (via Git LFS)
 ├── dataset.pdf                   # Dataset documentation
-|
-├── Large-Scale Financial Fraud Dataset/
-|   └── improved_fraud_dataset.csv  # Raw dataset (via Git LFS)
-|
 ├── .gitattributes                # Git LFS tracking configuration
 ├── .gitignore
 └── README.md
