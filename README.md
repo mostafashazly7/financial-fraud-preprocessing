@@ -29,6 +29,24 @@ This repository implements a complete **data preprocessing pipeline** for a larg
 | Storage Method | Git LFS (Large File Storage) |
 | Output File | `fraud_final_preprocessed.csv` |
 
+
+
+---
+
+## 🔗 Data Source & Availability
+
+> **Note:** To keep this repository lightweight and focused on the pipeline logic, the raw 360MB+ dataset is not hosted directly in this repo.
+
+You can download the original dataset used in this project from the following source:
+*   **Dataset Link:** [https://www.kaggle.com/datasets/mdmahfuzsumon/large-scale-financial-fraud-dataset/data]
+*   **File to Download:** `improved_fraud_dataset.csv` (or the name of your source file)
+
+Once downloaded, place the file inside a folder named `Large-Scale Financial Fraud Dataset/` in the root directory to run the notebook.
+
+---
+
+
+
 ### Raw Feature Schema
 
 | Feature | Type | Description |
